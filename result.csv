@@ -1,0 +1,9 @@
+DoctorID;Type;City;Date;Hour;First Minute;Last Minute
+1;GP;Warsaw;2020-03-16;12;0;16
+1;GP;Warsaw;2020-03-16;13;49;59
+1;GP;Warsaw;2020-03-16;14;0;1
+1;GP;Warsaw;2020-03-29;14;0;37
+2;GP;Krakow;2020-03-16;12;0;49
+3;Sugreon;Warsaw;2020-03-22;8;1;59
+3;Sugreon;Warsaw;2020-03-22;9;0;6
+4;Opthomologist;Krakow;2020-10-04;13;20;34

@@ -43,6 +43,10 @@ if __name__ == '__main__':
     print("Macierz odwrotna: ")
     print(np.linalg.inv(matrix2))
 
+    a = np.genfromtxt('Zadanie_3_macierz_A.csv', delimiter=',')
+    b = np.genfromtxt('Zadanie_3_macierz_B.csv', delimiter=',')
+    print(a.dot(b.transpose()) / (np.std(a) * np.std(b)))
+
 
 #zad3
 print("zad3")
